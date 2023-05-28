@@ -9,18 +9,18 @@ import {
   ProjectsSection,
   Seo,
 } from "gatsby-theme-portfolio-minimal";
-
+//   Section,Animation,
 export default function IndexPage() {
   return (
     <>
-      <Seo title="Gatsby Starter for Portfolio Minimal" />
+      <Seo title="Portfolio - André Despouys Pascual" />
       <Page useSplashScreenAnimation>
         <HeroSection sectionId="hero" />
-        <ArticlesSection sectionId="articles" heading="Latest Articles" sources={['Medium']} />
-        <AboutSection sectionId="about" heading="About Portfolio Minimal" />
-        <InterestsSection sectionId="details" heading="Details" />
-        <ProjectsSection sectionId="features" heading="Built-in Features" />
-        <ContactSection sectionId="github" heading="Issues?" />
+        <AboutSection sectionId="about" heading="About Me 😁" />
+        <InterestsSection sectionId="details" heading="My skills stack 🦾" />
+        <ProjectsSection sectionId="learning" heading="My current learning path 🤓" />
+        {/* <ArticlesSection sectionId="articles" heading="Latest Articles Written 📝" sources={['Medium']} /> */}
+        <ContactSection sectionId="github" heading="Not bad right?" />
       </Page>
     </>
   );

@@ -15,7 +15,8 @@ module.exports = {
         },
         contentDirectory: "./content",
         blogSettings: {
-          path: "/blog", // Defines the slug for the blog listing page
+          entityName: 'Projects',
+          path: "/projects", // Defines the slug for the blog listing page
           usePathPrefixForArticles: false, // Default true (i.e. path will be /blog/first-article)
         },
         // googleAnalytics: {

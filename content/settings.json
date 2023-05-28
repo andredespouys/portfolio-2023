@@ -2,33 +2,33 @@
   "siteMetadata": {
     "language": "en",
     "siteUrl": "https://gatsby-starter-portfolio-minimal-theme.netlify.app/",
-    "title": "Gatsby Starter for Portfolio Minimal",
+    "title": "My portfolio",
     "titleTemplate": "%s · Portfolio Minimal",
-    "description": "A Gatsby Starter Project to easily get started with Portfolio Minimal theme.",
-    "author": "Konstantin Münster",
+    "description": "A portfolio made with Gatsby starter template",
+    "author": "André Despouys",
     "avatar": "../content/images/gatsby.png",
-    "bio": "This biography will be used in the footer area of an article and can contain some more details about the author.",
+    "bio": "A young student in his way of becoming a security analyst",
     "social": {
-      "behance": "https://behance.com",
-      "github": "https://github.com/konstantinmuenster",
-      "medium": "https://konstantinmuenster.medium.com",
-      "linkedin": "https://www.linkedin.com/in/konstantin-muenster/",
-      "mail": "mailto:mail@konstantin.digital"
+
+      "github": "https://github.com/andredespouys",
+      "medium": "https://medium.com/@andredespouys",
+      "linkedin": "https://www.linkedin.com/in/andredespouys/",
+      "mail": "mailto:andredespouys@gmail.com"
     }
   },
   "siteConfiguration": {
     "logo": { "text": "Portfolio" },
     "navigation": {
       "header": [
-        { "label": "About", "url": "/#about" },
-        { "label": "Blog", "url": "/blog" },
-        { "label": "Features", "url": "/#features" },
-        { "label": "Github", "url": "/#github" }
+        { "label": "About me", "url": "/#about" },
+        { "label": "See projects", "url": "/projects" },
+        { "label": "My learning", "url": "/#learning" },
+        { "label": "Blog", "url": "https://medium.com/@andredespouys" }
       ],
       "ctaButton": {
         "openNewTab": true,
         "label": "Resume",
-        "url": "/resume.pdf"
+        "url": "/cv-site.pdf"
       },
       "footer": [
         { "label": "Privacy", "url": "/privacy" },
