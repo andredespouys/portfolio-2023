@@ -1,4 +1,9 @@
 {
+
+  "heroPhoto": {
+    "src": "../../images/memoji.png",
+    "alt": "My Photo"
+  },
   "intro": "Hey",
   "image": {
     "src": "../../images/waving-hand.png",
@@ -14,9 +19,5 @@
   "socialProfiles": {
     "from": ["LinkedIn", "Medium", "Github", "Mail"],
     "showIcons": true
-  },
-  "heroPhoto": {
-    "src": "../../images/no.png",
-    "alt": "My Photo"
   }
 }
