@@ -7,11 +7,11 @@ banner:
   alt: "First Markdown Post"
   caption: 'Photo by <u><a href="https://👮‍♂️unsplash.com/fr/photos/ah-HeguOe9k">Florian Olivo</a></u>'
 categories:
-  - "School"
+  - "Cybersecurity"
 keywords:
-  - "CISSP Domains"
-  - "Internship"
-  - "Excel Macros"
+  - "Cybersecurity"
+  - "Gendarmerie National"
+  - "App Development"
   - "Blog"
 ---
 
@@ -23,7 +23,7 @@ This winter, during the cybersecurity week at my university, I and my classmates
 
 
 
-# What did we do 🤓
+# What did we develope? 🤓
 
 
 
