@@ -4,18 +4,18 @@
     "src": "../../images/memoji.png",
     "alt": "My Photo"
   },
-  "intro": "Hey",
+  "intro": "Hello",
   "image": {
     "src": "../../images/waving-hand.png",
     "alt": "Waving Hand Emoji"
   },
-  "title": "I'm André",
+  "title": "I'm André Despouys",
   "subtitle": {
-    "prefix": "A future ",
+    "prefix": "A passionate of the web and a future ",
     "highlight": "security analyst",
     "suffix": "."
   },
-  "description": "This is my portfolio to show my transferable & technical skills",
+  "description": "This is my portfolio to show my skills and projects",
   "socialProfiles": {
     "from": ["LinkedIn", "Medium", "Github", "Mail"],
     "showIcons": true
