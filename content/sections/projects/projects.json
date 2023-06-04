@@ -18,23 +18,6 @@
           "url": "https://www.coursera.org/professional-certificates/google-cybersecurity?"
         }
       ]
-    },
-    {
-      "visible": true,
-      "category": "Course",
-      "title": "ANSSI - Cybersecurity ",
-      "description": "France governement cybersecurity course to learn about cybersecurity,deepen your knowledge, and take effective action to protect your digital tools. With a certificate of completion.",
-      "tags": ["Cybersecurity Fundamentals", "MOOC"],
-      "image": {
-        "src": "../../images/kelly-sikkema-Hl3LUdyKRic-unsplash.jpg",
-        "alt": "Notebook on table"
-      },
-      "links": [
-        {
-          "type": "external",
-          "url": "https://secnumacademie.gouv.fr/"
-        }
-      ]
     }
   ],
   "button": {

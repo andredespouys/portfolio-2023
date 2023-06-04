@@ -28,7 +28,7 @@
       "ctaButton": {
         "openNewTab": true,
         "label": "Resume",
-        "url": "/cv-site.pdf"
+        "url": "/cv.pdf"
       },
       "footer": [
         { "label": "Privacy", "url": "/privacy" },
