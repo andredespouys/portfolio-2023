@@ -19,7 +19,7 @@ keywords:
 
 
 
-As my first year of my degree was coming to an end, I had to find a company for an internship.
+As the first year of my degree was coming to an end, I had to find a company for an internship.
 
 
 

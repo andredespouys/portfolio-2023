@@ -1,13 +1,13 @@
 {
   "siteMetadata": {
     "language": "en",
-    "siteUrl": "https://gatsby-starter-portfolio-minimal-theme.netlify.app/",
+    "siteUrl": "https://despouysandre.com",
     "title": "My portfolio",
     "titleTemplate": "%s · Portfolio Minimal",
-    "description": "A portfolio made with Gatsby starter template",
+    "description": "A portfolio of my projects",
     "author": "André Despouys",
     "avatar": "../content/images/memoji.png",
-    "bio": "A young student in his way of becoming a security analyst",
+    "bio": "A young student on his way of becoming a security analyst",
     "social": {
 
       "github": "https://github.com/andredespouys",

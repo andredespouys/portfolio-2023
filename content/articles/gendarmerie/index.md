@@ -23,7 +23,7 @@ This winter, during the cybersecurity week at my university, I and my classmates
 
 
 
-# What did we develope? 🤓
+# What did we develop? 🤓
 
 
 
@@ -51,7 +51,7 @@ First of all, the **communication** with the whole team and with the supervisors
 
 
 
-In addition, we all met real professionals present at horrifyc crime scenes and got to know more about their struggles with technology and cybercrime these days that can affect real people's lives.
+In addition, we all met real professionals present at horrific crime scenes and got to know more about their struggles with technology and cybercrime these days that can affect real people's lives.
 
 
 

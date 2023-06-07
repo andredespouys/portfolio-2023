@@ -20,7 +20,7 @@ keywords:
 
 Each year my University: University Institute of Technology - <a href="https://www.iut.u-bordeaux.fr/general/" style="text-decoration:underline;color:blue">**IUT Bordeaux Montaigne </a>** and the <a href="https://www.musba-bordeaux.fr/" style="text-decoration:underline;color:blue">**Musée de Beaux Arts de Bordeaux</a>** create an special night where the digital world and art come together called <a href="https://www.u-bordeaux-montaigne.fr/fr/actualites/culture/bacchanight-8-nocturne-au-musee-des-beaux-arts-une-soiree-par-et-pour-les-etudiants.html" style="text-decoration:underline;">**Bacchanight**</a>. The purpose of this event is to invite students to revisit and reinterpret the museum's permanent collections and temporary exhibitions and in our case, doing it using the digital world.
 
-## What did we develope? 🤓
+## What did we develop? 🤓
 
 With my group called <a href="https://allela-ed132b.webflow.io/" style="text-decoration:underline;color:blue">Allela</a> (also a freelance collective), we developed D-Teye.
 
@@ -35,9 +35,9 @@ The storytelling takes you to find the differences between the original painting
 
 ## What did I learn? 🧐
 
-In this project I  learned to develop a web application using **Next.js**, knowing that I haven’t coded before with this framework, it was a veritable challenge to learn and develop almost at the same time and finish the project on time for presentation.
+In this project I  learned to develop a web application using **Next.js**, knowing that I haven’t coded before with this framework, it was a real challenge to learn and develop almost at the same time and finish the project on time for presentation.
 
-The **coordination** with the whole team was crucial to be conscient of the project requirements and the time we had to develop them, in our class we call it MVP, in english is traduced to the **Best Possible Version**.
+The **coordination** with the whole team was crucial to be conscious of the project requirements and the time we had to develop them, in our class we call it MVP, in English is translated to the **Best Possible Version**.
 
 In addition, I wanted to put my touch on it by putting a Cybersecurity related topic such as malware and their potential to alter things.
 
