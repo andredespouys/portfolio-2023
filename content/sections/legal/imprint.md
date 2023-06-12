@@ -4,12 +4,12 @@ sectionId: imprint
 
 #### Information pursuant to § 5 TMG
 
-YOURNAME<br />
-YOURSTREET<br />
-YOURCITY<br />
-YOURCOUNTRY
+Despouys Pascual André<br />
+15 Rue Saint MArtin<br />
+France<br />
 
-E-Mail Address: <u>YOURMAIL@DOMAIN.COM</u>
+
+E-Mail Address: <u>andredespouys@gmail.com</u>
 
 ---
 
